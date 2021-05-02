@@ -1,6 +1,6 @@
 ## COMPETITION ON SCRIPT IDENTIFICATION IN THE WILD (SIW 2021)
 
-This repository contains our source code in the RIVF2021 MC-OCR Competition.
+This repository contains our source code in the ICDAR2021 SIW Competition.
 
 ### Introduction
 
