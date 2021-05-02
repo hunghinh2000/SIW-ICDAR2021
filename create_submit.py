@@ -89,8 +89,6 @@ if __name__ == "__main__":
 	ap = argparse.ArgumentParser()
 	ap.add_argument("-t", "--test-set-folder", type=str, required=True,
 		help="Path to input test set folder")
-	ap.add_argument("-c", "--sample-csv-path", type=str, required=True,
-		help="Path to sample submission csv in private test")
 	ap.add_argument("-h", "--handwritten-model-path", type=str, required=True,
 		help="Path to the saved handwritten model")
 	ap.add_argument("-p", "--printed-model-path", type=str, required=True,
