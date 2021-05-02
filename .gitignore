@@ -1,0 +1,9 @@
+data/**
+submission/**
+saved_model/**
+plot_figure/**
+
+commands.txt
+handwritten_inaccurate_statistic.txt
+inaccurate_statistic.py
+config.py
